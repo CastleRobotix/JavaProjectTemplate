@@ -2,13 +2,6 @@
 
 _// The issue that this PR corresponds to (with #)_
 
-## Modified Modules:
-
-- [ ] Repository
-- [ ] Core
-- [ ] Server
-- [ ] Client
-
 ## Overview:
 
 _// A comprehensive and detailed description of this pull request and its contents._
