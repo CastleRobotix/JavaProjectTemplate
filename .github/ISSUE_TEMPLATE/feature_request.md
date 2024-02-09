@@ -1,20 +1,33 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+name: Feature Request
+about: Propose an idea for this project
+title: "[FEATURE] Brief Feature Description"
+labels: enhancement
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## Feature Description:
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+_// Provide a clear, detailed, and comprehensive description of the requested feature._
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## Is your feature request associated with a problem? Please elucidate.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+_// A clear and concise explanation of the problem. E.g., I'm frequently frustrated when [...]_
+
+## Describe the solution you propose
+
+_// A clear and concise explanation of what you would like to occur._
+
+## Describe alternatives you have considered
+
+_// A clear and concise explanation of any alternative solutions or features that you've evaluated._
+
+## Additional Context:
+
+_// Include any other context about the feature request here._
+
+## Checklist:
+
+- [ ] I have checked the list of features that are not planned for this specific request
+- [ ] I have verified whether this feature has already been proposed in another issue
