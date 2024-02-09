@@ -3,12 +3,6 @@
 ## Pertains to:
 The issue or PR that this commit corresponds to (with #)
 
-## Modified Modules:
-- [ ] Repository
-- [ ] Core
-- [ ] Server
-- [ ] Client
-
 ## Overview:
 A comprehensive and detailed description of this commit and its contents.
 
@@ -39,6 +33,9 @@ _(Use ~~strikethrough~~ and don't mark the checkbox if something is irrelevant i
 - All Author's GitHub-Usernames (with @)
 
 ## Further Details:
+
+_// Use ~~strikethrough~~ if something has not been completed for this commit_
+
 Tested-by: 
 
 Reviewed-by: 
